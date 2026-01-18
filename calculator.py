@@ -26,7 +26,7 @@ def calculator():
             print("Досвидания!")
             print("Для того, чтобы вернуться в калькулятор нажми любую клавишу.")
             input()
-            calculator()
+            meet()
 
         try:
             if (isFirstInpOkay == False):
